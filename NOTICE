@@ -1,0 +1,36 @@
+NOTICE
+======
+
+GluCINDa — Glucose: Coherent Import. Neat Data. 
+Copyright © 2025 Medical University of Graz. All rights reserved.
+
+GluCINDa is licensed under the European Union Public Licence v. 1.2 (EUPL-1.2).
+See the LICENSE file or <https://eupl.eu/1.2/en/> for the full license text.
+
+This file lists third-party software components required by the GluCINDa GUI
+module, along with their respective licenses. This list must be kept current as
+dependencies are added or removed.
+
+-------------------------------------------------------------------------------
+
+## Python Standard Library
+
+Used under the Python Software Foundation License (PSF License).
+https://docs.python.org/3/license.html
+
+-------------------------------------------------------------------------------
+
+## Third-Party Dependencies
+
+### PyYAML
+- Version: 6.0.2
+- License: MIT License
+- Homepage: https://pyyaml.org/
+- License text: https://github.com/yaml/pyyaml/blob/master/LICENSE
+
+### PySide6
+- Version: 6.10.1
+- License: LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only
+- Homepage: https://www.qt.io/development/qt-framework/python-bindings
+
+-------------------------------------------------------------------------------

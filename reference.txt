@@ -1,0 +1,1 @@
+PM Baumann, C Buhlheller, A Grebien, C Taucher, F Posch, L Bally, and JK Mader. GluCINDa – Glucose: Coherent Import. Neat Data. An Open-Source Tool for the Consolidation of Continuous Glucose Monitoring Data for Research. 2025. URL: https://github.com/gluCINDa/.
